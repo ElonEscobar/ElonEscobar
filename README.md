@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/_elonescobar_" target="blank"><img src="https://img.shields.io/twitter/follow/_elonescobar_?logo=twitter&style=for-the-badge" alt="_elonescobar_" /></a> </p>
 
-- 🌱 I’m currently learning **FlutterFlow**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👯 I’m looking to collaborate on **rails and react projects**
 
