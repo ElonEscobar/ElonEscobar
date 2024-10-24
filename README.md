@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Dan Muendo</h1>
-<h3 align="center">A passionate full-stack developer from Nairobi, Kenya</h3>
+<h3 align="center">A full-stack developer and designer from Nairobi, Kenya</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif"/>
 
