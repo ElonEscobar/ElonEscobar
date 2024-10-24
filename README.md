@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **rails and react projects**
+- 👯 I’m looking to collaborate on **nodejs, react and rails projects**
 
-- 💬 Ask me about **rails, react, ruby, javascript, html and css**
+- 💬 Ask me about **rails, react, node, ruby, javascript, html and css**
 
 - 📫 How to reach me **danwalker254254@gmail.com**
 
