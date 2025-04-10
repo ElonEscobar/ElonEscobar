@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif"/>
 
 
-<p align="left"> <a href="https://twitter.com/_elonescobar_" target="blank"><img src="https://img.shields.io/twitter/follow/_elonescobar_?logo=twitter&style=for-the-badge" alt="_elonescobar_" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -12,7 +11,7 @@
 
 - 💬 Ask me about **rails, react, node, ruby, javascript, html and css**
 
-- 📫 How to reach me **danwalker254254@gmail.com**
+- 📫 How to reach me **idanmuendo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
